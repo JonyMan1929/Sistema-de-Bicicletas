@@ -5,5 +5,7 @@ Objetivo General: Implementar una aplicación Java de arquitectura monolítica u
 
 Integrantes:
 Jonathan Morales Jasso
+
 Jose Erick Vargas Rangel
+
 Angel Reyes Cabrera
